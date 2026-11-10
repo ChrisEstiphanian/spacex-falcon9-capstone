@@ -1,0 +1,12 @@
+pandas==2.2.3
+numpy<2.3
+requests
+beautifulsoup4
+html5lib
+matplotlib
+seaborn
+folium
+plotly
+dash
+scikit-learn
+jupyter
